@@ -49,7 +49,7 @@ public class VirheIlmoitus extends JFrame {
 		contentPane.add(btnOk);
 		txtrTapahtuiVirheYrit.setBackground(UIManager.getColor("Button.background"));
 		txtrTapahtuiVirheYrit.setText("Tapahtui virhe! Yrit\u00E4 uudestaan");
-		txtrTapahtuiVirheYrit.setBounds(78, 49, 196, 16);
+		txtrTapahtuiVirheYrit.setBounds(77, 61, 196, 16);
 		
 		contentPane.add(txtrTapahtuiVirheYrit);
 	}
